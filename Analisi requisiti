@@ -1,1 +1,15 @@
+# Finalità
 
+Creazione di un applicazione per prenotare viaggi aerei.
+
+# Requisiti
+
+Non funzionali:
+  1) Sicurezza dati utenti.
+  2) Ricerca e prenotazione di voli efficace. Supporto di più lingue.
+  3) Compatibilità applicazione.
+
+Funzionali:
+  1) Registrazione account.
+  2) UI user friendly.
+  3) Pulsante di ricerca. Visualizzazione delle offerte in sconto/più vantaggiose.

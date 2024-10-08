@@ -1,9 +1,9 @@
-#PROGETTO INFORMATICO:
-##OBIETTIVO:
+PROGETTO INFORMATICO:
+OBIETTIVO:
 Sviluppare un progetto informatico con l'obiettivo di creare un'applicazione innovativa per la prenotazione dei migliori voli aerei in tutto il mondo.  
 
 
-##IDENTIFICAZIONE DEGLI STAKEHOLDER:
+IDENTIFICAZIONE DEGLI STAKEHOLDER:
     • clienti e viaggiatori sopra i 16 anni che utilizzano la piattaforma per prenotare i voli 
     • compagnie aeree che collaborano con la nostra piattaforma per offrire i loro voli 
     • investitori che hanno un interesse finanziario nell’azienda
@@ -12,7 +12,7 @@ Sviluppare un progetto informatico con l'obiettivo di creare un'applicazione inn
     • giornalisti e blogger che possono influenzare la reputazione dell’azienda attraverso le loro recensioni e articoli
 
 
-##ANALISI:
+ANALISI:
 Requisiti Funzionali
     1. Ricerca voli:
         ◦ Gli utenti devono poter cercare voli inserendo parametri come destinazione, date, numero di passeggeri e classe di viaggio.
@@ -58,7 +58,7 @@ Requisiti Non Funzionali
 
 
 
-##Analisi della concorrenza:
+Analisi della concorrenza:
 
 Eadrams
 
@@ -76,11 +76,11 @@ Expedia offre un'ampia gamma di servizi per la prenotazione di voli, hotel e pac
 punti di debolezza:
 D'altra parte, Expedia ha commissioni elevate e poco chiare per modifiche e cancellazioni, oltre a problemi tecnici segnalati durante i picchi di traffico. Il servizio clienti può essere inefficiente, con tempi di attesa lunghi. Inoltre, la disponibilità di offerte può variare in base alla destinazione, e i prezzi cambiano rapidamente, creando confusione tra gli utenti.
 
-##Analisi di fattibilitá:
+Analisi di fattibilitá:
 L'analisi di fattibilità del progetto per l'applicazione di prenotazione voli evidenzia la possibilità di realizzare il progetto grazie a tecnologie moderne come architetture cloud, microservizi e protocolli di sicurezza avanzati. Dal punto di vista economico, il progetto richiede un investimento iniziale significativo, ma può generare un buon ritorno economico entro 2-3 anni tramite commissioni, collaborazioni e servizi aggiuntivi. Operativamente, un'organizzazione adeguata del team e un'efficiente assistenza clienti garantiranno il successo gestionale, mentre l'espansione internazionale richiederà pianificazione strategica. Tempisticamente, il lancio iniziale è previsto entro 12-18 mesi, con sviluppi continui. Infine, il mercato delle prenotazioni online è competitivo, ma esiste la possibilità di distinguersi grazie a trasparenza sui prezzi, servizio clienti eccellente e una user experience superiore. 
  
 
-##Personas e user stories:
+Personas e user stories:
 
 Marco, Il Genitore Organizzato
 User Story: Come genitore, voglio trovare voli economici e adatti alla mia famiglia, con informazioni chiare su servizi e politiche sui bagagli, in modo da pianificare il viaggio senza sorprese o complicazioni.

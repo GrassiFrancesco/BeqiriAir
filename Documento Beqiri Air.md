@@ -1,9 +1,11 @@
 PROGETTO INFORMATICO:
+
 OBIETTIVO:
 Sviluppare un progetto informatico con l'obiettivo di creare un'applicazione innovativa per la prenotazione dei migliori voli aerei in tutto il mondo.  
 
 
 IDENTIFICAZIONE DEGLI STAKEHOLDER:
+
     • clienti e viaggiatori sopra i 16 anni che utilizzano la piattaforma per prenotare i voli 
     • compagnie aeree che collaborano con la nostra piattaforma per offrire i loro voli 
     • investitori che hanno un interesse finanziario nell’azienda
@@ -13,7 +15,9 @@ IDENTIFICAZIONE DEGLI STAKEHOLDER:
 
 
 ANALISI:
+
 Requisiti Funzionali
+
     1. Ricerca voli:
         ◦ Gli utenti devono poter cercare voli inserendo parametri come destinazione, date, numero di passeggeri e classe di viaggio.
     2. Prenotazione voli:
